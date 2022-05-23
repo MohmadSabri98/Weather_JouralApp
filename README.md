@@ -12,4 +12,3 @@
      - and then local server would send "done" response
      - and then the frontend recieves the response & send get req on route '/all' to update the UI
 
-# hope that I did what I have been asked for and enjoy.
